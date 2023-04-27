@@ -1,4 +1,4 @@
-Based City,Employee ID,Gender,Birth Date,Age,Join Date,Education,Department,Employeement Status,0 Date,Marrige Status,Nationality
+BasedCity,EmployeeID,Gender,BirthDate,Age,JoinDate,Education,Department,EmployeementStatus,0 Date,MarrigeStatus,Nationality
 GZ,379720,Female,11/22/92,30.4,1/1/22,,D20069031,1,,Married,China
 GZ,10407054,Female,5/21/95,28,1/1/22,,D20069051,1,,Unmarried,China
 GZ,10424275,Female,9/26/94,28.6,1/1/22,,D20069041,0,4/27/23,Unmarried,China
