@@ -1,4 +1,4 @@
-Employee ID,Gender,Age,Service Year,Education,MarrigeStatus,Nationality,Department,EmploymentStatus
+Employee ID,Gender,Age,ServiceYear,Education,MarrigeStatus,Nationality,Department,EmploymentStatus
 00379720,F,30.44,1.33,Bachelor,Married,China,20069031,0
 10407054,F,27.95,1.33,Bachelor,Unmarried,China,20069051,0
 10424275,F,28.60,1.33,Bachelor,Unmarried,China,20069041,1
